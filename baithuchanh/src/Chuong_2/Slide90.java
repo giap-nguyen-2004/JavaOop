@@ -1,6 +1,8 @@
+package Chuong_2;
+
 import java.util.Scanner;
 
-public class slide90 {
+public class Slide90 {
     public static void main(String[] args) {
         String chuoi =new String();
         Scanner sc = new Scanner(System.in);

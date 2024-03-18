@@ -1,6 +1,8 @@
+package Chuong_2;
+
 import java.util.Scanner;
 
-public class phuongtrinhbac1 {
+public class Phuong_Trinh_bac_1 {
     public static void main(String[] args) {
         double  a,b;
         Scanner sc = new Scanner (System.in);

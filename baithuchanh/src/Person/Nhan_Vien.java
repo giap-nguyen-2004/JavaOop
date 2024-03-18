@@ -1,3 +1,5 @@
+package Person;
+
 import java.util.Scanner;
 
 public class Nhan_Vien {

@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Phuong_Trinh_bac_1",
+            "request": "launch",
+            "mainClass": "Chuong_2.Phuong_Trinh_bac_1",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Phuong_Trinh_bac_2",
+            "request": "launch",
+            "mainClass": "Chuong_2.Phuong_Trinh_bac_2",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide30",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide30",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide35",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide35",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide40",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide40",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide47",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide47",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide51",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide51",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide55",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide55",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide74",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide74",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide81",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide81",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide90",
+            "request": "launch",
+            "mainClass": "Chuong_2.Slide90",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "main_HinhTron",
+            "request": "launch",
+            "mainClass": "Main.main_HinhTron",
+            "projectName": "JavaOop_cf67f2b8"
+        }
+    ]
+}

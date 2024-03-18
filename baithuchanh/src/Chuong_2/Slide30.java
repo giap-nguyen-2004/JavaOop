@@ -1,6 +1,8 @@
+package Chuong_2;
+
 import java.util.Scanner;
 
-public class slide30 {
+public class Slide30 {
     public static int sum (int n ){
         if (n<10) return n;
         return sum(n/10)+sum(n%10);

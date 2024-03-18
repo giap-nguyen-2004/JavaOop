@@ -1,3 +1,5 @@
+package Person;
+
 import java.util.Scanner;
 
 public class Students {
@@ -5,7 +7,7 @@ public class Students {
     public String  Id_student = new String ();
     public int naw_sinh;
     Scanner sc = new Scanner(System.in);
-    public void nhap_thong_tin (){
+    public void nhap_thong_tin_hs (){
         System.out.print("ho va ten ");
         ho_ten=sc.nextLine();
         System.out.print("ma simh vien ");
@@ -24,7 +26,7 @@ public class Students {
         System.out.print("nhap diem C=");
         diem_C=sc.nextInt();
     }
-    public void in_thong_tin(){
+    public void in_thong_tin_hs(){
         System.out.println("ho Va ten :"+ho_ten);
         System.out.println("ma sing vien :"+Id_student);
         System.out.println("nam sinh :"+naw_sinh);

@@ -1,6 +1,8 @@
+package Chuong_2;
+
 import java.util.Scanner;
 
-public class slide35 {
+public class Slide35 {
     public static void main(String[] args) {
         int a, b ;
         Scanner sc =new Scanner(System.in);

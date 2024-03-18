@@ -1,3 +1,5 @@
+package Hinh_Hoc;
+
 import java.util.Scanner;
 
 public class Hinh_Tron {
