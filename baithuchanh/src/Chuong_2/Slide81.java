@@ -18,11 +18,11 @@ public class Slide81 {
                 if ((i==0)&&(j==0)){
                     max=a[i][j];
                 }
-                if ( max <a[i][j]){
+                if ( max <a[i][j]){ 
                     max=a[i][j];
                 }
             }
         }
         System.out.print("so lon nhat trong mang la: "+max);
-    }
+    } 
 }

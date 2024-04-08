@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "KeThua_Person.Main",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "MainChuong3Side28",
+            "request": "launch",
+            "mainClass": "Chuong_3.MainChuong3Side28",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
