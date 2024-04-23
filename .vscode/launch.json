@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainOVERRIDING",
+            "request": "launch",
+            "mainClass": "Overriding.MainOVERRIDING",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "KeThua_Person.Main",
