@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListsDemo",
+            "request": "launch",
+            "mainClass": "Chuong_4.Lits.ArrayListsDemo",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Linked",
+            "request": "launch",
+            "mainClass": "Chuong_4.Lits.Linked",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "ArrList",
+            "request": "launch",
+            "mainClass": "Chuong_4.Lits.ArrList",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
             "name": "MainOVERRIDING",
             "request": "launch",
             "mainClass": "Overriding.MainOVERRIDING",
