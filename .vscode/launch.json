@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Slide_88",
+            "request": "launch",
+            "mainClass": "Chuong_4.Map.Slide_88",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide_86",
+            "request": "launch",
+            "mainClass": "Chuong_4.Map.Slide_86",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Silide_69",
+            "request": "launch",
+            "mainClass": "Chuong_4.Sets.Silide_69",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide_60",
+            "request": "launch",
+            "mainClass": "Chuong_4.Sets.Slide_60",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Slide_56",
+            "request": "launch",
+            "mainClass": "Chuong_4.Sets.Slide_56",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
+            "name": "Hash_Set",
+            "request": "launch",
+            "mainClass": "Chuong_4.Sets.Hash_Set",
+            "projectName": "JavaOop_cf67f2b8"
+        },
+        {
+            "type": "java",
             "name": "ArrayListsDemo",
             "request": "launch",
             "mainClass": "Chuong_4.Lits.ArrayListsDemo",

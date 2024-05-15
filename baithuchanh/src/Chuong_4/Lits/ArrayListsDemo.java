@@ -15,7 +15,7 @@ public class ArrayListsDemo {
             student.Nhap_thong_tin();
             Arr_L.add(student);
         }
-        System.out.println("thong tin ban dau:");
+        System.out.println("thong tin ban dau: ");
         for(int i = 0; i <= Arr_L.size();i++){
             Arr_L.get(i).In_thong_tin();
         }
