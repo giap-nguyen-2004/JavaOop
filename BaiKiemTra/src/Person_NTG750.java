@@ -1,6 +1,7 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Peron_NTG750 {
+public class Person_NTG750 {
     public int tuoi;
     public String HoTen;
     public Float Luong;
